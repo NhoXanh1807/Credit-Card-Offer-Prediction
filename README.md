@@ -1,2 +1,2 @@
-# Credit-Card-Offer-Prediction-CO4033-
+# Credit-Card-Offer-Prediction
 Assignment Big Data Analytics and Business Intelligence (CO4033) 
